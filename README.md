@@ -9,6 +9,11 @@ or other cnc router with 43mm sockets
 
 -screw used to fasten the cover adapter is M4
 
+![Final picture 1](https://github.com/AislerHQ/exhaustion-adapter/blob/master/IMG_20170421_160547.jpg)
+
+
+![Final picture 2](https://github.com/AislerHQ/exhaustion-adapter/blob/master/IMG_20170421_155920.jpg)
+
 
 ## License
 
