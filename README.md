@@ -12,7 +12,7 @@ or other cnc router with 43mm sockets
 
 ## License
 
-All drawings of the exhaustion adapter are Copyright © 2017 by AISLER B.V. It is free software, and may be
+All drawings of the exhaustion adapter are Copyright © 2017 by AISLER B.V. It is open hardware, and may be
 redistributed under the terms specified in the MIT-LICENSE file.
 
 ## About AISLER
