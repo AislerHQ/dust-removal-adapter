@@ -1,4 +1,4 @@
-# Exhaustion-adapter
+# Dust removal adapter
 Adapter for the kress spindle models 1050/850/800
 or other cnc router with 43mm sockets
 
